@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-models/
+models/summary_t5transformer_5_epochs_pretrained.pt
 data/
 
 # C extensions
